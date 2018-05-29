@@ -1,4 +1,44 @@
 #EXTM3U
+
+http://system.fpiptv.com:8080/live/yensencc/5708674551/20405.m3u8
+#EXTINF:-1,24/7 All in the family
+http://system.fpiptv.com:8080/live/yensencc/5708674551/20431.m3u8
+#EXTINF:-1,24/7 American Dad
+http://system.fpiptv.com:8080/live/yensencc/5708674551/20432.m3u8
+#EXTINF:-1,24/7 Baskets
+http://system.fpiptv.com:8080/live/yensencc/5708674551/20430.m3u8
+#EXTINF:-1,24/7 Daniel Tiger
+http://system.fpiptv.com:8080/live/yensencc/5708674551/20421.m3u8
+#EXTINF:-1,24/7 Dragon Ball Super
+http://system.fpiptv.com:8080/live/yensencc/5708674551/20429.m3u8
+#EXTINF:-1,24/7 Family Guy
+http://system.fpiptv.com:8080/live/yensencc/5708674551/20428.m3u8
+#EXTINF:-1,24/7 Friends
+http://system.fpiptv.com:8080/live/yensencc/5708674551/20427.m3u8
+#EXTINF:-1,24/7 Goofy
+http://system.fpiptv.com:8080/live/yensencc/5708674551/20426.m3u8
+#EXTINF:-1,24/7 Mom
+http://system.fpiptv.com:8080/live/yensencc/5708674551/20434.m3u8
+#EXTINF:-1,24/7 Paw Patrol
+http://system.fpiptv.com:8080/live/yensencc/5708674551/20420.m3u8
+#EXTINF:-1,24/7 Peppa Pig
+http://system.fpiptv.com:8080/live/yensencc/5708674551/20425.m3u8
+#EXTINF:-1,24/7 PJ Masks
+http://system.fpiptv.com:8080/live/yensencc/5708674551/20424.m3u8
+#EXTINF:-1,24/7 Shark Tank
+http://system.fpiptv.com:8080/live/yensencc/5708674551/20433.m3u8
+#EXTINF:-1,24/7 Shaun the Sheep
+http://system.fpiptv.com:8080/live/yensencc/5708674551/20423.m3u8
+#EXTINF:-1,24/7 Sponge Bob
+http://system.fpiptv.com:8080/live/yensencc/5708674551/20422.m3u8
+#EXTINF:-1,24/7 The Simpsons
+http://system.fpiptv.com:8080/live/yensencc/5708674551/20418.m3u8
+#EXTINF:-1,24/7 Thundercats
+http://system.fpiptv.com:8080/live/yensencc/5708674551/20419.m3u8
+#EXTINF:-1,24/7 Tom and Jerry
+http://system.fpiptv.com:8080/live/yensencc/5708674551/20417.m3u8
+#EXTINF:-1,24/7 Young Sheldon
+http://system.fpiptv.com:8080/live/yensencc/5708674551/20416.m3u8
 #EXTINF:-1,ENG | NBC New-York
 http://system.fpiptv.com:8080/live/yensencc/5708674551/442.m3u8
 #EXTINF:-1,ENG | MSNBC HD
@@ -850,44 +890,6 @@ http://system.fpiptv.com:8080/live/yensencc/5708674551/8402.m3u8
 
 
 http://system.fpiptv.com:8080/live/yensencc/5708674551/20405.m3u8
-#EXTINF:-1,24/7 All in the family
-http://system.fpiptv.com:8080/live/yensencc/5708674551/20431.m3u8
-#EXTINF:-1,24/7 American Dad
-http://system.fpiptv.com:8080/live/yensencc/5708674551/20432.m3u8
-#EXTINF:-1,24/7 Baskets
-http://system.fpiptv.com:8080/live/yensencc/5708674551/20430.m3u8
-#EXTINF:-1,24/7 Daniel Tiger
-http://system.fpiptv.com:8080/live/yensencc/5708674551/20421.m3u8
-#EXTINF:-1,24/7 Dragon Ball Super
-http://system.fpiptv.com:8080/live/yensencc/5708674551/20429.m3u8
-#EXTINF:-1,24/7 Family Guy
-http://system.fpiptv.com:8080/live/yensencc/5708674551/20428.m3u8
-#EXTINF:-1,24/7 Friends
-http://system.fpiptv.com:8080/live/yensencc/5708674551/20427.m3u8
-#EXTINF:-1,24/7 Goofy
-http://system.fpiptv.com:8080/live/yensencc/5708674551/20426.m3u8
-#EXTINF:-1,24/7 Mom
-http://system.fpiptv.com:8080/live/yensencc/5708674551/20434.m3u8
-#EXTINF:-1,24/7 Paw Patrol
-http://system.fpiptv.com:8080/live/yensencc/5708674551/20420.m3u8
-#EXTINF:-1,24/7 Peppa Pig
-http://system.fpiptv.com:8080/live/yensencc/5708674551/20425.m3u8
-#EXTINF:-1,24/7 PJ Masks
-http://system.fpiptv.com:8080/live/yensencc/5708674551/20424.m3u8
-#EXTINF:-1,24/7 Shark Tank
-http://system.fpiptv.com:8080/live/yensencc/5708674551/20433.m3u8
-#EXTINF:-1,24/7 Shaun the Sheep
-http://system.fpiptv.com:8080/live/yensencc/5708674551/20423.m3u8
-#EXTINF:-1,24/7 Sponge Bob
-http://system.fpiptv.com:8080/live/yensencc/5708674551/20422.m3u8
-#EXTINF:-1,24/7 The Simpsons
-http://system.fpiptv.com:8080/live/yensencc/5708674551/20418.m3u8
-#EXTINF:-1,24/7 Thundercats
-http://system.fpiptv.com:8080/live/yensencc/5708674551/20419.m3u8
-#EXTINF:-1,24/7 Tom and Jerry
-http://system.fpiptv.com:8080/live/yensencc/5708674551/20417.m3u8
-#EXTINF:-1,24/7 Young Sheldon
-http://system.fpiptv.com:8080/live/yensencc/5708674551/20416.m3u8
 #EXTINF:-1,PT | TVI REALITY
 http://system.fpiptv.com:8080/live/yensencc/5708674551/17687.m3u8
 http://system.fpiptv.com:8080/movie/yensencc/5708674551/17281.mp4
