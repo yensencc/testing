@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1,ENG | Tru TV HD
-http://system.fpiptv.com:8080/live/yensencc/5708674551/445.m3u8#EXTINF:-1,ENG | NBC New-York
-http://system.fpiptv.com:8080/live/yensencc/5708674551/442.ts
+http://system.fpiptv.com:8080/live/yensencc/5708674551/445.m3u8
 #EXTINF:-1,ENG | MSNBC HD
 http://system.fpiptv.com:8080/live/yensencc/5708674551/425.ts
 #EXTINF:-1,ENG | Lifetime HD US
