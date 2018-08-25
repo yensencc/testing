@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1,TRT LATINO
+http://edge.wms28.lorini.net:1935/trttv/trttv/playlist.m3u8
+#EXTINF:-1,RT America
+http://thepk.co:2086/live/marino/3n8BoUv21b/4408.ts
+#EXTINF:-1,RT Tv CA
+http://thepk.co:2086/live/marino/3n8BoUv21b/3234.ts
+#EXTINF:-1,RT USA
+http://thepk.co:2086/live/marino/3n8BoUv21b/3998.ts
+#EXTINF:-1,Latino | History HD
+http://thepk.co:2086/live/marino/3n8BoUv21b/5197.ts
 #EXTINF:-1,H2 USA
 http://thepk.co:2086/live/marino/3n8BoUv21b/309.ts
 http://thepk.co:2086/live/marino/3n8BoUv21b/4592.ts
